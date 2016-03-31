@@ -27,3 +27,7 @@ end
 
 new_color = mix_colors(red,green)
 puts "#{color_lookup[red]} #{red} + #{color_lookup[green]} #{green} = #{color_lookup[new_color]} #{new_color}"
+
+
+
+colors = [[{red => }]   ]
